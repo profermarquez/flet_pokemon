@@ -25,6 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+pokemon_artwork_hd
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
